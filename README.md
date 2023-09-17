@@ -2,9 +2,9 @@
   Hello there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"></a>
   <br>
   <br>
-  <a href="https://instagram.com/mehdiiaw"><img src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" alt="mehdiiawAccount" width="180"></a>
+  <a href="https://instagram.com/mehdiiaw"><img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="mehdiiawAccount" width="180"></a>
   <br>
-  Mehdi Ghasedi (Also Known As Mehdiiaw)
+ ✔ Mehdi Ghasedi (Also Known As Mehdiiaw)
 </h1>
 
 <h4 align="center">This is Mehdi! A junior front end developer, who very intrested in web developing</h4>
