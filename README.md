@@ -26,7 +26,7 @@ const mehdiGhasedi = {
 };
 ```
 
-## My expertise
+## Expertise
 
 <p>
 
